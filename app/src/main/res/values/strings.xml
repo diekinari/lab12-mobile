@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DBases</string>
+    <string name="app_name">Задание 12</string>
     <string name="title_main">Базы данных</string>
     <string name="btn_load_db">Загрузить БД</string>
 </resources>
